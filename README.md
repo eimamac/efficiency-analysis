@@ -2,7 +2,7 @@ Scripts to analyze daily activity logs and generate efficiency reports. It proce
 
 
 Expected data structure:
-
+```
 Date,Hour,Activity
 2024-05-28,09,Data Processing
 2024-05-28,09,Analysis
@@ -15,3 +15,4 @@ Date,Hour,Activity
 2024-05-28,15,Testing
 2024-05-28,16,Coding
 2024-05-28,17,Monitoring
+```
