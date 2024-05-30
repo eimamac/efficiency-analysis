@@ -1,1 +1,1 @@
-nu ka gero
+Scripts to analyze daily activity logs and generate efficiency reports. It processes CSV files to categorize activities into good, neutral, and bad categories, calculates the duration of each activity, and evaluates daily efficiency. The project includes functionalities for generating weekly efficiency logs, activity time distribution, and visual charts of activity durations. It also supports integration with Google Sheets for automated data retrieval and report generation.
